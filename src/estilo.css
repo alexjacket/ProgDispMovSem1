@@ -1,0 +1,10 @@
+.profissionais{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 5%;
+    border: solid 2px;
+    background-color: blueviolet;
+    border-radius: 8px;
+    text-align: start;
+}
